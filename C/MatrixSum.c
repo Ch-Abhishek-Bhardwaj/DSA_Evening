@@ -1,0 +1,1 @@
+// sum of the square of the sum of numbers in each rowand print
