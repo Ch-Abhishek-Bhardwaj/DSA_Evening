@@ -23,35 +23,38 @@ A personal collection of Data Structures and Algorithms practice, written mainly
 
 ## 🧠 Topics Covered
 
-| Folder | What's Inside |
-|--------|---------------|
-| **C** | Basic programs and concepts in C |
-| **cpp_basic** | C++ fundamentals to build a strong foundation |
-| **Linear_dsa** | Arrays, Linked Lists, Stacks, Queues |
-| **Non-Linear_dsa** | Trees, Graphs, Heaps and related algorithms |
-| **Recursion** | Recursive thinking, subsets, permutations, backtracking |
-| **DP** | Memoization, tabulation, classic DP patterns |
-| **HASHING** | Hash maps, hash sets, frequency and lookup problems |
-| **Leetcode** | Problem-wise solutions from LeetCode |
+| Folder             | What's Inside                                           |
+| ------------------ | ------------------------------------------------------- |
+| **C**              | Basic programs and concepts in C                        |
+| **cpp_basic**      | C++ fundamentals to build a strong foundation           |
+| **Linear_dsa**     | Arrays, Linked Lists, Stacks, Queues                    |
+| **Non-Linear_dsa** | Trees, Graphs, Heaps and related algorithms             |
+| **Recursion**      | Recursive thinking, subsets, permutations, backtracking |
+| **DP**             | Memoization, tabulation, classic DP patterns            |
+| **HASHING**        | Hash maps, hash sets, frequency and lookup problems     |
+| **Leetcode**       | Problem-wise solutions from LeetCode                    |
 
 ---
 
 ## 🚀 Getting Started
 
 ### Prerequisites
+
 - A C++ compiler such as **g++** (MinGW on Windows, GCC on Linux/macOS)
 - Any code editor (this repo uses **VS Code**)
 
 ### Clone the repository
+
 ```bash
 git clone https://github.com/Ch-Abhishek-Bhardwaj/DSA_Evening.git
 cd DSA_Evening
 ```
 
-
 # C
+
 gcc C/example.c -o example
 ./example
+
 ```
 
 ---
@@ -81,3 +84,4 @@ This is a personal learning repo, but suggestions and improvements are welcome. 
 ## ⭐ Support
 
 If you find this repository helpful, consider giving it a star!
+```
